@@ -1,5 +1,5 @@
 
-export const BROKEN_PATH = "/members";
+export const BROKEN_PATH = "/member";
 export const FLAG = "GDG{one_missing_s}";
 
 const KEY = "gdg-puzzle-404";
