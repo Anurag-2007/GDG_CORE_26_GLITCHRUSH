@@ -285,8 +285,7 @@ export default function Home() {
             Learn. Build. <span class="grad">Grow together.</span>
           </h1>
           <p class="hm-lead" data-rv style={{ "--d": ".2s" }}>
-            A student community for anyone curious about technology. No experience needed, just
-            bring your curiosity.
+           Google Developer Groups on Campus (GDG on Campus) bring students together to learn Google technologies, grow as developers, and build solutions through peer-to-peer learning in community.
           </p>
         </div>
 
@@ -370,7 +369,7 @@ export default function Home() {
           <div class="hm-band__text">
             <h2>Ready to join?</h2>
             <p>See who is behind the community and say hello.</p>
-            <A href={BROKEN_PATH} class="hm-btn">View members</A>
+            <A href={BROKEN_PATH} class="hm-btn">View Members</A>
           </div>
         </div>
       </section>
