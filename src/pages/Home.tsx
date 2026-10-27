@@ -369,7 +369,7 @@ export default function Home() {
           <div class="hm-band__text">
             <h2>Ready to join?</h2>
             <p>See who is behind the community and say hello.</p>
-            <A href={BROKEN_PATH} class="hm-btn">View Members</A>
+            <A href={BROKEN_PATH} class="hm-btn">Members</A>
           </div>
         </div>
       </section>

@@ -23,7 +23,7 @@ export default function Navbar() {
         </A>
         <nav class="nav__links" aria-label="Primary">
           <A href="/" end activeClass="active">Home</A>
-          <A href={BROKEN_PATH} activeClass="active">View Members</A>
+          <A href={BROKEN_PATH} activeClass="active"> Members</A>
           <button
             type="button"
             class="theme-btn"

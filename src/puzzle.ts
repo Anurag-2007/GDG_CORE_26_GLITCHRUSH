@@ -7,7 +7,7 @@ const KEY = "gdg-puzzle-404";
 const HINTS = [
   "🕵️ Clue 01: A button led you to a dead end. Retrace your steps, detective. What does the address bar reveal?",
   "🔎 Clue 02: The page may be missing, but its name isn't a mystery. Compare the destination with the name of the page you're looking for.",
-  "🗂️ Clue 03: Every button leaves a trail. Inspect “View Members” and investigate its href. The smallest detail might crack this case.",
+  "🗂️ Clue 03: Every button leaves a trail. Inspect “Members” and investigate its href. The smallest detail might crack this case.",
 ];
 
 let used = 0;
