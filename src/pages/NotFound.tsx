@@ -9,7 +9,7 @@ export default function NotFound() {
   return (
     <section class="page-head wrap nf">
       <span class="pill">Error 404</span>
-      <h1>Page not found</h1>
+      <h1>Page not found - ERROR 404</h1>
       <p class="lead">
         We couldn't find <code>{loc.pathname}</code>. Something's off, and the console might know more 👀
       </p>
